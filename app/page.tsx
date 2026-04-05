@@ -1,3 +1,6 @@
+
+// without reading this there is no benifit , read and improve debugging get faster at it , instead of repeating same mistakes learn from old mistakes and improve
+ 
 // https://chat.deepseek.com/share/wr71kn431g4exfwwzd
 // https://chat.deepseek.com/share/ouuwcarxqrc7an0si2
 

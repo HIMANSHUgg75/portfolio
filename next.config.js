@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',  // For static export to GitHub Pages
   images: {
     domains: ['picsum.photos'],
-    unoptimized: true,
+    unoptimized: true,  // Required for static export
   },
+  trailingSlash: true,  // Helps with routing
 }
 
 module.exports = nextConfig
-
-
