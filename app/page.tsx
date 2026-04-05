@@ -26,7 +26,7 @@ export default function Portfolio() {
       tech: ["React.js", "Vite","Bootstrap","JavaScript(JSX)"]
 ,
       link: "https://github.com/HIMANSHUgg75/agency-ai",
-      image: "/images/agency_ai.png"
+      image: "/images/agency.png"
     },
     {
       title: "ChatApp-2",
@@ -34,7 +34,7 @@ export default function Portfolio() {
       tech: ["Python", "Flask","Socket.IO","HTML","Virtual Environment"],
       link: "",
       // image: "https://picsum.photos/id/301/600/400"
-      image: "/images/agent.png"
+      image: "/images/agent_ai.png"
     }
   ];
 
